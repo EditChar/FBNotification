@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258976486315",
+    "project_id": "fbnotification-2e1f2",
+    "storage_bucket": "fbnotification-2e1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258976486315:android:ca3db43e0a03f929dc78ee",
+        "android_client_info": {
+          "package_name": "com.ing.fbnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258976486315-qp51l6jlbsbjc2o0ndqjb8oeedtf5eh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioZW6dW14AI7Ns8Scz6rn5mcMJRKyfsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258976486315-qp51l6jlbsbjc2o0ndqjb8oeedtf5eh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
